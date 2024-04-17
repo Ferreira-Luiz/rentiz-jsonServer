@@ -154,7 +154,7 @@
       "purpose": "comprar",
       "bathroom": 5,
       "sqft": 2300,
-      "image": "/https://live.staticflickr.com/65535/53661457169_342724d1b6.jpg"
+      "image": "https://live.staticflickr.com/65535/53661457169_342724d1b6.jpg"
     },
     {
       "id": 14,
@@ -166,7 +166,7 @@
       "purpose": "alugar",
       "bathroom": 2,
       "sqft": 1100,
-      "image": "/https://live.staticflickr.com/65535/53661568560_19d608aa18_z.jpg"
+      "image": "https://live.staticflickr.com/65535/53661568560_19d608aa18_z.jpg"
     },
     {
       "id": 15,
