@@ -178,7 +178,7 @@
       "purpose": "comprar",
       "bathroom": 6,
       "sqft": 2400,
-      "image": "https://live.staticflickr.com/65535/53661100501_c3af169041.jpg"
+      "image": "https://i.imgur.com/eiPZ2Ht.jpeg"
     },
     {
       "id": 16,
@@ -190,7 +190,7 @@
       "purpose": "alugar",
       "bathroom": 2,
       "sqft": 1300,
-      "image": "https://live.staticflickr.com/65535/53661324493_7a675326d8_z.jpg"
+      "image": "https://i.imgur.com/sLwp3Po.jpeg"
     },
     {
       "id": 17,
@@ -202,7 +202,7 @@
       "purpose": "comprar",
       "bathroom": 3,
       "sqft": 2000,
-      "image": "https://live.staticflickr.com/65535/53661100511_375639e23e_z.jpg"
+      "image": "https://i.imgur.com/tDkPXIo.jpeg"
     },
     {
       "id": 18,
@@ -214,7 +214,7 @@
       "purpose": "comprar",
       "bathroom": 2,
       "sqft": 1850,
-      "image": "https://live.staticflickr.com/65535/53661457199_308c90e032_w.jpg"
+      "image": "https://i.imgur.com/wQt56U6.jpeg"
     },
     {
       "id": 19,
@@ -226,7 +226,7 @@
       "purpose": "comprar",
       "bathroom": 4,
       "sqft": 2200,
-      "image": "https://live.staticflickr.com/65535/53660236337_c360ca3d8a_z.jpg"
+      "image": "https://i.imgur.com/ePZ51rp.jpeg"
     },
     {
       "id": 20,
@@ -238,7 +238,7 @@
       "purpose": "alugar",
       "bathroom": 2,
       "sqft": 1050,
-      "image": "https://live.staticflickr.com/65535/53661531939_c537b8e113.jpg"
+      "image": "https://i.imgur.com/IarG9s8.jpeg"
     },
     {
       "id": 21,
@@ -250,7 +250,7 @@
       "purpose": "comprar",
       "bathroom": 3,
       "sqft": 1950,
-      "image": "https://live.staticflickr.com/65535/53661507949_5359fbc377_w.jpg"
+      "image": "https://i.imgur.com/PUkRQRd.jpeg"
     },
     {
       "id": 22,
@@ -262,79 +262,7 @@
       "purpose": "alugar",
       "bathroom": 2,
       "sqft": 1400,
-      "image": "https://live.staticflickr.com/65535/53661159046_7881952fd9_z.jpg"
-    },
-    {
-      "id": 23,
-      "name": "Vila dos Pássaros",
-      "location": "São Paulo",
-      "rooms": 6,
-      "type": "casa",
-      "price": 920000,
-      "purpose": "comprar",
-      "bathroom": 5,
-      "sqft": 2350,
-      "image": "https://live.staticflickr.com/65535/53661158991_7a89685d61_z.jpg"
-    },
-    {
-      "id": 24,
-      "name": "Condomínio Mirante do Lago",
-      "location": "Florianópolis",
-      "rooms": 3,
-      "type": "apartamento",
-      "price": 600000,
-      "purpose": "comprar",
-      "bathroom": 2,
-      "sqft": 1800,
-      "image": "https://live.staticflickr.com/65535/53661518284_b5d07fb634_z.jpg"
-    },
-    {
-      "id": 25,
-      "name": "Casa do Lago",
-      "location": "Rio de Janeiro",
-      "rooms": 7,
-      "type": "casa",
-      "price": 1150000,
-      "purpose": "comprar",
-      "bathroom": 6,
-      "sqft": 2450,
-      "image": "https://live.staticflickr.com/65535/53661384988_0668438b94_n.jpg"
-    },
-    {
-      "id": 26,
-      "name": "Casa do Bosque",
-      "location": "Rio de Janeiro",
-      "rooms": 7,
-      "type": "casa",
-      "price": 1110000,
-      "purpose": "comprar",
-      "bathroom": 6,
-      "sqft": 2450,
-      "image": "https://live.staticflickr.com/65535/53660295572_3518473f21_w.jpg"
-    },
-    {
-      "id": 27,
-      "name": "Casa das Flores",
-      "location": "Rio de Janeiro",
-      "rooms": 7,
-      "type": "casa",
-      "price": 1150000,
-      "purpose": "comprar",
-      "bathroom": 6,
-      "sqft": 2450,
-      "image": "https://live.staticflickr.com/65535/53661518309_bf8f3dd61d.jpg"
-    },
-    {
-      "id": 28,
-      "name": "Casa dos Ventos",
-      "location": "Rio de Janeiro",
-      "rooms": 7,
-      "type": "casa",
-      "price": 1200000,
-      "purpose": "comprar",
-      "bathroom": 6,
-      "sqft": 2450,
-      "image": "https://live.staticflickr.com/65535/53661632380_a3aecc1263_z.jpg"
+      "image": "https://i.imgur.com/6z20XHY.jpeg"
     }
   ]
 }
