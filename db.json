@@ -263,6 +263,30 @@
       "bathroom": 2,
       "sqft": 1400,
       "image": "https://i.imgur.com/6z20XHY.jpeg"
+    },
+      {
+      "id": 23,
+      "name": "Vila dos Pássaros",
+      "location": "São Paulo",
+      "rooms": 6,
+      "type": "casa",
+      "price": 920000,
+      "purpose": "comprar",
+      "bathroom": 5,
+      "sqft": 2350,
+      "image": "https://i.imgur.com/h0aofYw.jpeg"
+    },
+    {
+      "id": 24,
+      "name": "Condomínio Mirante do Lago",
+      "location": "Florianópolis",
+      "rooms": 3,
+      "type": "apartamento",
+      "price": 600000,
+      "purpose": "comprar",
+      "bathroom": 2,
+      "sqft": 1800,
+      "image": "https://i.imgur.com/6Rk6lPb.jpeg"
     }
   ]
 }
